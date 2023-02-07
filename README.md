@@ -73,4 +73,4 @@ If you have any questions about FL0 or this template codebase please head on ove
 Any issues or feature requests can be raised on the [Issues page](https://github.com/fl0zone/template-express-pg-sequelize/issues) of this repo.
 
 ## License
-
+This template repository is [MIT licensed](LICENSE).
